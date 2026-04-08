@@ -35,7 +35,7 @@ Individual project. Role: Developer.
 
 🗣️ Languages
 
-English - intermediate |
+English - intermediate 
 
 Ukrainian - native
 
