@@ -40,7 +40,7 @@ English - intermediate
 Ukrainian - native
 
 📫 How to reach me:  
-[LinkedIn][(https://www.linkedin.com/in/anishchenko-anna/ ) |
+[LinkedIn](https://www.linkedin.com/in/anishchenko-anna/ ) |
 [Telegram](https://t.me/AnnaIgorivnaAnishchenko)  |
 [Email](mailto:aanishchenko@ukr.net)
 
