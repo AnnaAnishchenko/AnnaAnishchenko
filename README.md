@@ -34,7 +34,9 @@ A website prototype of a mobile application showcasing the interface and main fe
 Individual project. Role: Developer.
 
 🗣️ Languages
-English - intermediate
+
+English - intermediate |
+
 Ukrainian - native
 
 📫 How to reach me:  
