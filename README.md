@@ -1,7 +1,6 @@
 ## Hi, I`m Anna Anishchenko 👋
 
-<!--
-**AnnaAnishchenko/AnnaAnishchenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 Junior Fullstack Developer Fullstack developer with experience in JavaScript, React, Next.js,  Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in a Scrum environment, adhering to best practices in coding, version control (Git), and performance optimization techniques. 
 Here are some ideas to get you started:
 
