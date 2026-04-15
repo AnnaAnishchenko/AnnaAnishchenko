@@ -1,7 +1,7 @@
 ## Hi, I`m Anna Anishchenko 👋
 
 
-Junior Fullstack Developer Fullstack developer with experience in HTML, CSS, JavaScript, React, Next.js,  Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in a Scrum environment, adhering to best practices in coding, version control (Git), and performance optimization techniques. 
+Junior Fullstack developer with experience in HTML, CSS, JavaScript, React, Next.js,  Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in a Scrum environment, adhering to best practices in coding, version control (Git), and performance optimization techniques. 
 Here are some ideas to get you started:
 
 🧰 Tech Stack  
