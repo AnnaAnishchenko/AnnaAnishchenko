@@ -56,8 +56,8 @@ Role: Hero Section Developer, Scrum Master
 
 💼 Effective Solutions for Your Business
 Tech Stack: HTML, CSS
-🔗 Live Demo: https://annaanishchenko.github.io/goit-markup-hw-06/index.html
-🔗 GitHub: https://github.com/AnnaAnishchenko/goit-markup-hw-06
+🔗 Live Demo: https://effective-solutions-for-your-busine.vercel.app/
+🔗 GitHub: https://github.com/AnnaAnishchenko/EffectiveSolutionsForYourBusiness
 Landing page for presenting business solutions and services.
 Role: Developer
 
