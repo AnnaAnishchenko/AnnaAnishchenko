@@ -36,7 +36,7 @@ Role: Developer (Team Project)
 📝 NoteHub
 Tech Stack: React, Next.js
 🔗 Live Demo:https://note-hub-ashy.vercel.app/
-🔗 GitHub: https://github.com/AnnaAnishchenko/09-auth
+🔗 GitHub: https://github.com/AnnaAnishchenko/NoteHub
 Application for creating, organizing, and managing personal notes.
 Role: Developer (Individual Project)
 
