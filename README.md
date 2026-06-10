@@ -42,23 +42,27 @@ Role: Developer (Individual Project)
 👨‍💻 Fullstack Developer Resume
 Tech Stack: HTML, CSS, JavaScript
 🔗 Live Demo: https://remezovskyi2508.github.io/fullstack-developer-resume/
+🔗 GitHub:https: https://github.com/remezovskyi2508/fullstack-developer-resume
 Portfolio website showcasing professional skills and projects.
 Role: Hero Section Developer, Scrum Master
 
 👕 Vyshyvanka Vibes
 Tech Stack: HTML, CSS
+🔗 Live Demo: https://dmytro-hrytsyshyn.github.io/Fox4/
 🔗 GitHub: https://github.com/Dmytro-Hrytsyshyn/Fox4
 Online store of traditional embroidered clothing with product catalog and brand presentation.
 Role: Hero Section Developer, Scrum Master
 
 💼 Effective Solutions for Your Business
 Tech Stack: HTML, CSS
+🔗 Live Demo: https://annaanishchenko.github.io/goit-markup-hw-06/index.html
 🔗 GitHub: https://github.com/AnnaAnishchenko/goit-markup-hw-06
 Landing page for presenting business solutions and services.
 Role: Developer
 
 🍫 Simply Chocolate
 Tech Stack: HTML, CSS
+🔗 Live Demo: https://annaanishchenko.github.io/simply_chocolate/
 🔗 GitHub: https://github.com/AnnaAnishchenko/simply_chocolate
 Promotional website for a chocolate brand highlighting products and design.
 Role: Developer
