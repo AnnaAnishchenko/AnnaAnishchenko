@@ -1,37 +1,94 @@
 ## Hi, I`m Anna Anishchenko 👋
 
+I'm a Junior Fullstack Developer with experience in HTML, CSS, JavaScript, TypeScript, React, Next.js, Node.js, and MongoDB.
 
-Junior Fullstack developer with experience in HTML, CSS, JavaScript, React, Next.js,  Node.js, and MongoDB. Experienced in creating single-page applications (SPA), integrating REST API, and implementing responsive and adaptive user interface components. Experience working in a Scrum environment, adhering to best practices in coding, version control (Git), and performance optimization techniques. 
-Here are some ideas to get you started:
+I specialize in creating responsive and adaptive web applications, developing Single Page Applications (SPA), integrating REST APIs, and implementing modern user interfaces. I have experience working in Agile/Scrum teams, using Git for version control, and applying performance optimization and clean code practices.
 
-🧰 Tech Stack  
-JavaScript | TypeScript | Node.js | React | Next.js
+🧰 Tech Stack
+HTML5
+CSS3 / SCSS
+JavaScript (ES6+)
+TypeScript
+React
+Next.js
+Node.js
+MongoDB
+REST API
+Git / GitHub
+💻 Featured Projects
+RentalCar
 
-💻Featured Projects  
-**NoteHub.** (https://github.com/AnnaAnishchenko/09-auth) [HTML, CSS, JavaScript, React, Next].
-NoteHub is a simple and efficient application designed for managing personal notes.
-Individual project. Role: Developer.
+Live Demo: https://rental-car-project-bice.vercel.app/
+GitHub: https://github.com/AnnaAnishchenko/RentalCar_Project
+Tech Stack: Next.js, TypeScript
 
-**Fullstack developer resume.** (https://remezovskyi2508.github.io/fullstack-developer-resume/) [HTML, CSS, JavaScript].
-A resume website for a Fullstack developer featuring skills, experience, and projects.
-Team project. Role: Developer of hero section, Scrum Master.
+RentalCar is a web application for browsing and renting cars online. Users can search, filter, and view detailed information about available vehicles for rent.
 
-**Vyshyvanka vybes.** (https://github.com/Dmytro-Hrytsyshyn/Fox4) [HTML, CSS].
-An online store of traditional embroidered clothing with a product catalog and brand
-presentation.
-Team project. Role: Developer of hero section, Scrum Master.
+Role: Developer (Individual Project)
 
-**Effective Solutions for Your Business.** (https://github.com/AnnaAnishchenko/goit-markup-hw-06) [HTML, CSS]. A landing page
-for a developer offering effective business solutions and showcasing professional services.
-Individual project. Role: Developer.
+Leleka
 
-**Simply chocolate.** (https://github.com/AnnaAnishchenko/simply_chocolate) [HTML, CSS].
-A presentation website for a chocolate brand highlighting its products and design.
-Individual project. Role: Developer.
+Live Demo: https://little-steps-leleka.com/
+GitHub: https://github.com/ValeriiBrykalov7/little_steps_frontend_final_project.git
+Tech Stack: HTML, CSS, JavaScript, React, Next.js, Node.js
 
-**Mobile-app prototipe**. (https://github.com/AnnaAnishchenko/mobile-app-prototipe)  [HTML, CSS].
-A website prototype of a mobile application showcasing the interface and main features.
-Individual project. Role: Developer.
+Leleka is a web application designed for expectant mothers. The platform provides disease tracking, personal diary functionality, useful tips, and pregnancy-related information.
+
+Role: Developer (Team Project)
+
+NoteHub
+
+GitHub: https://github.com/AnnaAnishchenko/09-auth
+Tech Stack: HTML, CSS, JavaScript, React, Next.js
+
+NoteHub is a simple and efficient application for creating, organizing, and managing personal notes.
+
+Role: Developer (Individual Project)
+
+Fullstack Developer Resume
+
+Live Demo: https://remezovskyi2508.github.io/fullstack-developer-resume/
+Tech Stack: HTML, CSS, JavaScript
+
+A resume website showcasing professional skills, experience, and portfolio projects.
+
+Role: Developer of Hero Section, Scrum Master (Team Project)
+
+Vyshyvanka Vibes
+
+GitHub: https://github.com/Dmytro-Hrytsyshyn/Fox4
+Tech Stack: HTML, CSS
+
+An online store of traditional embroidered clothing featuring a product catalog and brand presentation.
+
+Role: Developer of Hero Section, Scrum Master (Team Project)
+
+Effective Solutions for Your Business
+
+GitHub: https://github.com/AnnaAnishchenko/goit-markup-hw-06
+Tech Stack: HTML, CSS
+
+A landing page for a developer offering effective business solutions and showcasing professional services.
+
+Role: Developer (Individual Project)
+
+Simply Chocolate
+
+GitHub: https://github.com/AnnaAnishchenko/simply_chocolate
+Tech Stack: HTML, CSS
+
+A promotional website for a chocolate brand highlighting products, company values, and modern design.
+
+Role: Developer (Individual Project)
+
+Mobile App Prototype
+
+GitHub: https://github.com/AnnaAnishchenko/mobile-app-prototipe
+Tech Stack: HTML, CSS
+
+A prototype website presenting the interface and key features of a mobile application.
+
+Role: Developer (Individual Project)
 
 🗣️ Languages
 
